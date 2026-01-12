@@ -1,16 +1,8 @@
-# Ignore virtual environment
+processed_data/
 venv/
-
-# Ignore Python cache files
 __pycache__/
 *.pyc
-
-# Ignore OS files
 .DS_Store
-
-# Ignore large model/data files
 *.h5
 *.pkl
 *.csv
-
-processed_data/
